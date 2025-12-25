@@ -1,0 +1,542 @@
+serial no.,Game,Start,End,Genre
+0.0,Subnautica,12-12-2018,27-12-2018,First-ever Epic free game.
+0.001851851851851852,Super Meat Boy,28-12-2018,10-01-2019,Second giveaway.
+0.003703703703703704,What Remains of Edith Finch,11-01-2019,24-01-2019,Early weekly rotation.
+0.005555555555555556,The Jackbox Party Pack,24-01-2019,07-02-2019,Party game bundle.
+0.007407407407407407,Axiom Verge,07-02-2019,21-02-2019,Metroidvania title.
+0.009259259259259259,Thimbleweed Park,21-02-2019,07-03-2019,Point-and-click adventure.
+0.011111111111111113,Slime Rancher,07-03-2019,21-03-2019,Farming / collection sim.
+0.012962962962962964,Oxenfree,21-03-2019,04-04-2019,Narrative adventure.
+0.014814814814814815,The Witness,04-04-2019,18-04-2019,Puzzle game.
+0.016666666666666666,Transistor,18-04-2019,02-05-2019,Action RPG.
+0.01851851851851852,World of Goo,02-05-2019,16-05-2019,Physics puzzler.
+0.020370370370370372,Stories Untold,16-05-2019,30-05-2019,Horror anthology.
+0.022222222222222223,RiME,23-05-2019,30-05-2019,Adventure / puzzle.
+0.024074074074074078,City of Brass,30-05-2019,06-06-2019,First-person rogue-lite.
+0.02592592592592593,Kingdom: New Lands,06-06-2019,13-06-2019,Strategy / management.
+0.02777777777777778,Enter the Gungeon,13-06-2019,20-06-2019,Bullet-hell rogue-lite.
+0.029629629629629634,Rebel Galaxy,20-06-2019,27-06-2019,Space combat / trading.
+0.03148148148148148,Last Day of June,27-06-2019,04-07-2019,Narrative adventure.
+0.03333333333333333,Overcooked!,04-07-2019,11-07-2019,Co-op cooking game.
+0.03518518518518518,Torchlight,11-07-2019,18-07-2019,ARPG.
+0.037037037037037035,Limbo,18-07-2019,25-07-2019,Platformer.
+0.03888888888888889,Moonlighter,25-07-2019,01-08-2019,Shopkeeping ARPG.
+0.04074074074074074,This War of Mine,25-07-2019,01-08-2019,War survival sim.
+0.04259259259259259,Alan Wake,02-08-2019,09-08-2019,Action thriller.
+0.044444444444444446,For Honor,02-08-2019,09-08-2019,Multiplayer melee combat.
+0.046296296296296294,GNOG,08-08-2019,15-08-2019,Puzzle game.
+0.04814814814814815,Hyper Light Drifter,15-08-2019,22-08-2019,2D action RPG.
+0.05,Mutant Year Zero: Road to Eden,15-08-2019,22-08-2019,Tactical strategy.
+0.05185185185185185,Fez,22-08-2019,29-08-2019,Puzzle platformer.
+0.053703703703703705,Inside,29-08-2019,05-09-2019,Puzzle platformer.
+0.05555555555555555,Celeste,29-08-2019,05-09-2019,Precision platformer.
+0.05740740740740741,The End is Nigh,05-09-2019,12-09-2019,Platformer.
+0.05925925925925926,ABZU,05-09-2019,12-09-2019,Underwater exploration.
+0.061111111111111116,Conarium,12-09-2019,19-09-2019,Lovecraftian horror.
+0.06296296296296296,Batman: Arkham Collection,19-09-2019,26-09-2019,AAA bundle.
+0.06481481481481481,LEGO Batman Trilogy,19-09-2019,26-09-2019,Family platformers.
+0.06666666666666667,Everything,26-09-2019,03-10-2019,Experimental sim.
+0.06851851851851852,Metro 2033 Redux,26-09-2019,03-10-2019,FPS survival.
+0.07037037037037037,Minit,03-10-2019,10-10-2019,60-second adventure.
+0.07222222222222222,Surviving Mars,10-10-2019,17-10-2019,Colony builder.
+0.07407407407407407,Observer,24-10-2019,31-10-2019,Cyberpunk horror.
+0.07592592592592592,Layers of Fear,24-10-2019,31-10-2019,Psychological horror.
+0.07777777777777778,Q.U.B.E. 2,31-10-2019,07-11-2019,First-person puzzler.
+0.07962962962962963,SOMA,31-10-2019,07-11-2019,Sci-fi horror.
+0.08148148148148149,Nuclear Throne,07-11-2019,14-11-2019,Top-down shooter.
+0.08333333333333333,Ruiner,07-11-2019,14-11-2019,Cyberpunk action.
+0.08518518518518518,The Messenger,14-11-2019,21-11-2019,Ninja platformer.
+0.08703703703703704,Bad North: Jotunn Edition,21-11-2019,29-11-2019,Tactics / defense.
+0.08888888888888889,Rayman Legends,29-11-2019,06-12-2019,Platformer.
+0.09074074074074075,Jotun: Valhalla Edition,05-12-2019,12-12-2019,Norse action-exploration.
+0.09259259259259259,The Escapists,12-12-2019,19-12-2019,Weekly free before holiday daily run.
+0.09444444444444444,The Wolf Among Us,12-12-2019,19-12-2019,Telltale narrative adventure.
+0.0962962962962963,Into the Breach,19-12-2019,20-12-2019,First “12 Days” holiday game 2019.
+0.09814814814814815,TowerFall Ascension,20-12-2019,21-12-2019,Local multiplayer action.
+0.1,Superhot,21-12-2019,22-12-2019,Time-bending FPS.
+0.10185185185185186,Little Inferno,22-12-2019,23-12-2019,Puzzle / sandbox.
+0.1037037037037037,Ape Out,23-12-2019,24-12-2019,Stylized action.
+0.10555555555555556,Celeste (repeat),24-12-2019,25-12-2019,Holiday repeat.
+0.10740740740740741,Totally Accurate Battle Simulator,25-12-2019,26-12-2019,Physics tactics.
+0.10925925925925926,FTL: Faster Than Light,26-12-2019,27-12-2019,Space roguelike.
+0.11111111111111112,Hyper Light Drifter (repeat),27-12-2019,28-12-2019,Holiday repeat.
+0.11296296296296296,Shadow Tactics: Blades of the Shogun,28-12-2019,29-12-2019,Tactical stealth.
+0.11481481481481481,The Talos Principle,29-12-2019,30-12-2019,First-person puzzler.
+0.11666666666666667,Hello Neighbor,30-12-2019,31-12-2019,Stealth horror.
+0.11851851851851852,Yooka-Laylee and the Impossible Lair,31-12-2019,01-01-2020,Platformer.
+0.12037037037037038,Darksiders: Warmastered Edition,01-01-2020,09-01-2020,Action adventure.
+0.12222222222222222,Darksiders II: Deathinitive Edition,01-01-2020,09-01-2020,ARPG.
+0.12407407407407409,Steep,01-01-2020,09-01-2020,Winter sports.
+0.12592592592592594,Sundered: Eldritch Edition,09-01-2020,16-01-2020,Metroidvania.
+0.12777777777777777,Horace,16-01-2020,23-01-2020,Indie platformer.
+0.12962962962962962,The Bridge,23-01-2020,30-01-2020,Puzzle.
+0.13148148148148148,Farming Simulator 19,30-01-2020,06-02-2020,Farming sim.
+0.13333333333333333,Ticket to Ride,06-02-2020,13-02-2020,Board game adaptation.
+0.13518518518518519,Carcassonne,06-02-2020,13-02-2020,Board game adaptation.
+0.13703703703703704,Kingdom Come: Deliverance,13-02-2020,20-02-2020,RPG.
+0.1388888888888889,Aztez,13-02-2020,20-02-2020,Hybrid brawler/strategy.
+0.14074074074074075,Faeria,20-02-2020,27-02-2020,Card/board hybrid.
+0.1425925925925926,Assassin’s Creed Syndicate,20-02-2020,27-02-2020,Open-world action.
+0.14444444444444446,InnerSpace,27-02-2020,05-03-2020,Exploration.
+0.14629629629629629,GoNNER,05-03-2020,12-03-2020,Roguelike platformer.
+0.14814814814814814,Offworld Trading Company,05-03-2020,12-03-2020,Economic RTS.
+0.15,Anodyne 2: Return to Dust,12-03-2020,19-03-2020,Adventure.
+0.15185185185185185,A Short Hike,12-03-2020,19-03-2020,Exploration.
+0.1537037037037037,Mutazione,12-03-2020,19-03-2020,Narrative adventure.
+0.15555555555555556,Watch Dogs,19-03-2020,26-03-2020,Open-world action.
+0.1574074074074074,The Stanley Parable,19-03-2020,26-03-2020,Narrative experiment.
+0.15925925925925927,Figment,26-03-2020,02-04-2020,Action-adventure.
+0.16111111111111112,Tormentor x Punisher,26-03-2020,02-04-2020,Top-down shooter.
+0.16296296296296298,World War Z,26-03-2020,02-04-2020,Co-op shooter.
+0.16481481481481483,Drawful 2,02-04-2020,09-04-2020,Party game.
+0.16666666666666666,Gone Home,02-04-2020,09-04-2020,Narrative exploration.
+0.1685185185185185,Hob,02-04-2020,09-04-2020,Action-adventure.
+0.17037037037037037,Sherlock Holmes: Crimes and Punishments,09-04-2020,16-04-2020,Detective adventure.
+0.17222222222222222,Close to the Sun,09-04-2020,16-04-2020,Horror.
+0.17407407407407408,Just Cause 4,16-04-2020,23-04-2020,Open-world action.
+0.17592592592592593,Wheels of Aurelia,16-04-2020,23-04-2020,Narrative driving.
+0.17777777777777778,For the King,23-04-2020,30-04-2020,Strategy roguelike.
+0.17962962962962964,Amnesia: The Dark Descent,30-04-2020,07-05-2020,Horror.
+0.1814814814814815,Crashlands,30-04-2020,07-05-2020,Crafting/adventure.
+0.18333333333333335,Death Coming,07-05-2020,14-05-2020,Puzzle.
+0.1851851851851852,Grand Theft Auto V,14-05-2020,21-05-2020,First time GTA V went free.
+0.18703703703703703,Sid Meier’s Civilization VI,21-05-2020,28-05-2020,4X strategy.
+0.18888888888888888,Borderlands: The Handsome Collection,28-05-2020,04-06-2020,Borderlands 2 + Pre-Sequel bundle.
+0.19074074074074074,Overcooked! (repeat),04-06-2020,11-06-2020,"Co‑op cooking, return giveaway."
+0.1925925925925926,Ark: Survival Evolved,11-06-2020,18-06-2020,Survival sandbox.
+0.19444444444444445,Samurai Shodown NeoGeo Collection,11-06-2020,18-06-2020,Classic fighters collection.
+0.1962962962962963,Pathway,18-06-2020,25-06-2020,Tactical adventure.
+0.19814814814814816,AER: Memories of Old,25-06-2020,02-07-2020,Exploration / flying.
+0.2,Stranger Things 3: The Game,25-06-2020,02-07-2020,Co‑op action.
+0.20185185185185187,Hue,02-07-2020,09-07-2020,Color‑based puzzle platformer.
+0.20370370370370372,Killing Floor 2,09-07-2020,16-07-2020,Co‑op FPS.
+0.20555555555555557,Lifeless Planet: Premier Edition,09-07-2020,16-07-2020,Sci‑fi adventure.
+0.2074074074074074,The Escapists 2,09-07-2020,16-07-2020,Prison break sim.
+0.20925925925925926,Torchlight II,16-07-2020,23-07-2020,ARPG sequel.
+0.2111111111111111,Next Up Hero,23-07-2020,30-07-2020,Action dungeon crawler.
+0.21296296296296297,Tacoma,23-07-2020,30-07-2020,Narrative exploration.
+0.21481481481481482,20XX,30-07-2020,06-08-2020,Roguelike action platformer.
+0.21666666666666667,Barony,30-07-2020,06-08-2020,First‑person roguelike.
+0.21851851851851853,Superbrothers: Sword & Sworcery EP,30-07-2020,06-08-2020,Adventure.
+0.22037037037037038,Wilmot’s Warehouse,06-08-2020,13-08-2020,Puzzle/organization.
+0.22222222222222224,3 out of 10: Season One (Ep 1),06-08-2020,13-08-2020,Comedy adventure; first episode free.
+0.2240740740740741,Remnant: From the Ashes,13-08-2020,20-08-2020,Co‑op souls‑like shooter.
+0.22592592592592592,The Alto Collection,13-08-2020,20-08-2020,Alto’s Adventure + Alto’s Odyssey.
+0.22777777777777777,Enter the Gungeon (repeat),20-08-2020,27-08-2020,Bullet‑hell rogue‑lite.
+0.22962962962962963,God’s Trigger,20-08-2020,27-08-2020,Top‑down shooter.
+0.23148148148148148,Hitman (2016),27-08-2020,03-09-2020,Stealth sandbox.
+0.23333333333333334,Shadowrun Collection,27-08-2020,03-09-2020,Shadowrun Returns + sequels.
+0.2351851851851852,Into the Breach (repeat),03-09-2020,10-09-2020,Tactics roguelike.
+0.23703703703703705,Railway Empire,10-09-2020,17-09-2020,Train tycoon sim.
+0.2388888888888889,Where the Water Tastes Like Wine,10-09-2020,17-09-2020,Narrative adventure.
+0.24074074074074076,Stick It To The Man!,17-09-2020,24-09-2020,Comedy platformer.
+0.2425925925925926,Football Manager 2020,17-09-2020,24-09-2020,Football management sim.
+0.24444444444444446,Watch Dogs 2,17-09-2020,24-09-2020,Open‑world action.
+0.2462962962962963,RollerCoaster Tycoon 3: Complete Edition,24-09-2020,01-10-2020,Park sim.
+0.24814814814814815,Pikuniku,01-10-2020,08-10-2020,Puzzle adventure.
+0.25000000000000006,ABZÛ (repeat),08-10-2020,15-10-2020,Underwater exploration.
+0.2518518518518519,Rising Storm 2: Vietnam,08-10-2020,15-10-2020,Multiplayer FPS.
+0.25370370370370376,Amnesia: A Machine for Pigs,15-10-2020,22-10-2020,Horror.
+0.2555555555555556,Kingdom New Lands (repeat),15-10-2020,22-10-2020,Strategy.
+0.2574074074074074,Costume Quest 2,22-10-2020,29-10-2020,Halloween RPG.
+0.2592592592592593,Layers of Fear 2,22-10-2020,29-10-2020,Horror.
+0.2611111111111111,Blair Witch,29-10-2020,05-11-2020,Horror.
+0.262962962962963,Ghostbusters: The Video Game Remastered,29-10-2020,05-11-2020,Action adventure.
+0.26481481481481484,Dungeons 3,05-11-2020,12-11-2020,Dungeon management RTS.
+0.2666666666666667,The Textorcist: The Story of Ray Bibbia,12-11-2020,19-11-2020,Bullet‑hell typing game.
+0.26851851851851855,Elite Dangerous,19-11-2020,26-11-2020,Space sim.
+0.2703703703703704,The World Next Door,19-11-2020,26-11-2020,Puzzle RPG.
+0.27222222222222225,MudRunner,26-11-2020,03-12-2020,Off‑road sim.
+0.27407407407407414,Cave Story+,03-12-2020,10-12-2020,Classic platformer.
+0.27592592592592596,Pillars of Eternity: Definitive Edition,10-12-2020,17-12-2020,Isometric RPG.
+0.2777777777777778,Tyranny: Gold Edition,10-12-2020,17-12-2020,Isometric RPG.
+0.2796296296296297,Cities: Skylines,17-12-2020,18-12-2020,Start of “15 days of free games” 2020.
+0.2814814814814815,Oddworld: New ‘n’ Tasty,18-12-2020,19-12-2020,Platformer remake.
+0.2833333333333334,The Long Dark,19-12-2020,20-12-2020,Survival.
+0.2851851851851852,Defense Grid: The Awakening,20-12-2020,21-12-2020,Tower defense.
+0.2870370370370371,Alien: Isolation,21-12-2020,22-12-2020,Survival horror.
+0.2888888888888889,Metro 2033 Redux (repeat),22-12-2020,23-12-2020,FPS.
+0.2907407407407408,Tropico 5,23-12-2020,24-12-2020,City-builder.
+0.2925925925925926,Inside (repeat),24-12-2020,25-12-2020,Puzzle platformer.
+0.29444444444444445,Darkest Dungeon,25-12-2020,26-12-2020,Gothic roguelike.
+0.29629629629629634,My Time at Portia,26-12-2020,27-12-2020,Life sim.
+0.29814814814814816,Night in the Woods,27-12-2020,28-12-2020,Narrative adventure.
+0.30000000000000004,Stranded Deep,28-12-2020,29-12-2020,Survival.
+0.30185185185185187,Solitairica,29-12-2020,30-12-2020,Card/roguelike.
+0.30370370370370375,Torchlight II (repeat),30-12-2020,31-12-2020,ARPG.
+0.3055555555555556,Jurassic World Evolution,31-12-2020,07-01-2021,Park management.
+0.30740740740740746,Crying Suns,07-01-2021,14-01-2021,Tactical roguelite.
+0.3092592592592593,Star Wars Battlefront II: Celebration Edition,14-01-2021,21-01-2021,MP shooter.
+0.31111111111111117,Galactic Civilizations III,21-01-2021,28-01-2021,4X strategy.
+0.312962962962963,Dandara: Trials of Fear Edition,28-01-2021,04-02-2021,Metroidvania.
+0.3148148148148148,For The King (repeat),04-02-2021,11-02-2021,Strategy RPG.
+0.3166666666666667,Metro: Last Light Redux,04-02-2021,11-02-2021,FPS.
+0.31851851851851853,Halcyon 6: Starbase Commander,11-02-2021,18-02-2021,Strategy / management.
+0.3203703703703704,Absolute Drift,18-02-2021,25-02-2021,Driving.
+0.32222222222222224,Rage 2,18-02-2021,25-02-2021,Open‑world shooter.
+0.3240740740740741,Sunless Sea,25-02-2021,04-03-2021,Narrative exploration.
+0.32592592592592595,Wargame: Red Dragon,04-03-2021,11-03-2021,RTS.
+0.32777777777777783,Surviving Mars (repeat),11-03-2021,18-03-2021,Colony builder.
+0.32962962962962966,The Fall,18-03-2021,25-03-2021,Story platformer.
+0.33148148148148154,Creature in the Well,25-03-2021,01-04-2021,Pinball‑inspired action.
+0.33333333333333337,Tales of the Neon Sea,01-04-2021,08-04-2021,Pixel adventure.
+0.3351851851851852,3 out of 10: Season Two,08-04-2021,15-04-2021,Episodic comedy adventure.
+0.3370370370370371,Deponia: The Complete Journey,15-04-2021,22-04-2021,Point‑and‑click trilogy.
+0.3388888888888889,Ken Follett’s The Pillars of the Earth,15-04-2021,22-04-2021,Adventure.
+0.3407407407407408,The First Tree,15-04-2021,22-04-2021,Narrative exploration.
+0.3425925925925926,Alien: Isolation (repeat),22-04-2021,29-04-2021,Horror.
+0.3444444444444445,Hand of Fate 2,22-04-2021,29-04-2021,Deckbuilding action.
+0.3462962962962963,Idle Champions of the Forgotten Realms (pack),29-04-2021,06-05-2021,F2P bonus pack.
+0.3481481481481482,Pine,06-05-2021,13-05-2021,Action‑adventure.
+0.35000000000000003,The Lion’s Song,13-05-2021,20-05-2021,Narrative adventure.
+0.3518518518518519,NBA 2K21,20-05-2021,27-05-2021,Sports sim.
+0.35370370370370374,Among Us,27-05-2021,03-06-2021,Social deduction.
+0.35555555555555557,Frostpunk,03-06-2021,10-06-2021,City‑builder survival.
+0.35740740740740745,Control,10-06-2021,17-06-2021,Action‑adventure.
+0.3592592592592593,Hell is Other Demons,17-06-2021,24-06-2021,Arcade shooter.
+0.36111111111111116,Overcooked! 2,17-06-2021,24-06-2021,Co‑op cooking.
+0.362962962962963,Horizon Chase Turbo,24-06-2021,01-07-2021,Arcade racer.
+0.36481481481481487,Sonic Mania,24-06-2021,01-07-2021,Platformer.
+0.3666666666666667,The Spectrum Retreat,01-07-2021,08-07-2021,First‑person puzzle.
+0.3685185185185186,Bridge Constructor: The Walking Dead,08-07-2021,15-07-2021,Physics puzzle.
+0.3703703703703704,Ironcast,08-07-2021,15-07-2021,Match‑3 mech tactics.
+0.3722222222222223,Obduction,15-07-2021,22-07-2021,Myst‑like adventure.
+0.3740740740740741,Offworld Trading Company (repeat),15-07-2021,22-07-2021,Economic RTS.
+0.37592592592592594,Defense Grid: The Awakening (repeat),22-07-2021,29-07-2021,Tower defense.
+0.3777777777777778,Verdun,22-07-2021,29-07-2021,WW1 multiplayer FPS.
+0.37962962962962965,Mothergunship,29-07-2021,05-08-2021,Bullet‑hell FPS.
+0.38148148148148153,Train Sim World 2,29-07-2021,05-08-2021,Train sim.
+0.38333333333333336,A Plague Tale: Innocence,05-08-2021,12-08-2021,Story‑driven action adventure.
+0.38518518518518524,Minit (repeat),05-08-2021,12-08-2021,60‑second adventure.
+0.38703703703703707,Rebel Galaxy (repeat),12-08-2021,19-08-2021,Space combat/trading.
+0.38888888888888895,Void Bastards,19-08-2021,26-08-2021,Roguelike shooter.
+0.3907407407407408,Yooka-Laylee,19-08-2021,26-08-2021,3D platformer.
+0.39259259259259266,Automachef,26-08-2021,02-09-2021,Automation puzzle.
+0.3944444444444445,Saints Row: The Third Remastered,26-08-2021,02-09-2021,Open‑world action.
+0.3962962962962963,Yoku’s Island Express,02-09-2021,09-09-2021,Pinball‑platformer hybrid.
+0.3981481481481482,Sheltered,09-09-2021,16-09-2021,Survival management.
+0.4,Nioh: The Complete Edition,09-09-2021,16-09-2021,Action RPG.
+0.4018518518518519,Speed Brawl,16-09-2021,23-09-2021,2D combat racer.
+0.40370370370370373,Tharsis,16-09-2021,23-09-2021,Dice‑based space survival.
+0.4055555555555556,The Escapists (repeat),23-09-2021,30-09-2021,Prison escape sim.
+0.40740740740740744,Europa Universalis IV,30-09-2021,07-10-2021,Grand strategy.
+0.4092592592592593,PC Building Simulator,07-10-2021,14-10-2021,PC repair/assembly sim.
+0.41111111111111115,Stubbs the Zombie in Rebel Without a Pulse (repeat),14-10-2021,21-10-2021,Comedy zombie action.
+0.41296296296296303,Among the Sleep: Enhanced Edition,21-10-2021,28-10-2021,Horror adventure.
+0.41481481481481486,DARQ: Complete Edition,28-10-2021,04-11-2021,Puzzle horror.
+0.4166666666666667,Aven Colony,04-11-2021,11-11-2021,Sci‑fi city‑builder.
+0.41851851851851857,Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-shot Adventure,11-11-2021,18-11-2021,Borderlands standalone episode.
+0.4203703703703704,Rogue Company Season 4 Epic Pack (DLC),11-11-2021,18-11-2021,F2P content pack.
+0.4222222222222223,Guild of Dungeoneering,18-11-2021,25-11-2021,Card‑based dungeon crawler.
+0.4240740740740741,KID A MNESIA EXHIBITION,18-11-2021,25-11-2021,Interactive Radiohead exhibit.
+0.425925925925926,Never Alone (Kisima Ingitchuna),18-11-2021,25-11-2021,Puzzle platformer.
+0.4277777777777778,Antstream – Epic Welcome Pack,25-11-2021,02-12-2021,Retro streaming pack.
+0.4296296296296297,theHunter: Call of the Wild,25-11-2021,02-12-2021,Hunting sim.
+0.4314814814814815,Dead by Daylight,02-12-2021,09-12-2021,Asymmetrical horror MP.
+0.43333333333333335,while True: learn(),02-12-2021,09-12-2021,Coding/ML puzzle game.
+0.43518518518518523,Godfall: Challenger Edition,09-12-2021,16-12-2021,Loot‑slasher edition.
+0.43703703703703706,Prison Architect,09-12-2021,16-12-2021,Prison management sim.
+0.43888888888888894,Shenmue III,16-12-2021,17-12-2021,Action‑adventure.
+0.44074074074074077,Neon Abyss,17-12-2021,18-12-2021,Roguelike shooter.
+0.44259259259259265,Remnant: From the Ashes (repeat),18-12-2021,19-12-2021,Co‑op shooter.
+0.4444444444444445,The Vanishing of Ethan Carter,19-12-2021,20-12-2021,Mystery adventure.
+0.44629629629629636,Loop Hero,20-12-2021,21-12-2021,Deckbuilding roguelike.
+0.4481481481481482,Second Extinction,21-12-2021,22-12-2021,Co‑op dino shooter.
+0.45000000000000007,Mutant Year Zero: Road to Eden (repeat),22-12-2021,23-12-2021,Tactical strategy.
+0.4518518518518519,Vampyr,23-12-2021,24-12-2021,Action RPG.
+0.4537037037037037,Pathfinder: Kingmaker – Enhanced Plus Edition,24-12-2021,25-12-2021,Isometric RPG.
+0.4555555555555556,Prey,25-12-2021,26-12-2021,Immersive sim.
+0.45740740740740743,Control (repeat),26-12-2021,27-12-2021,Action‑adventure.
+0.4592592592592593,Mages of Mystralia,27-12-2021,28-12-2021,Action RPG.
+0.46111111111111114,Moving Out,28-12-2021,29-12-2021,Co‑op moving sim.
+0.462962962962963,Salt and Sanctuary,29-12-2021,30-12-2021,2D souls‑like.
+0.46481481481481485,"Tomb Raider Trilogy (Tomb Raider GOTY, Rise of the Tomb Raider, Shadow of the Tomb Raider)",30-12-2021,06-01-2022,Full reboot trilogy bundle.
+0.46666666666666673,Gods Will Fall,06-01-2022,13-01-2022,Action roguelike.
+0.46851851851851856,Galactic Civilizations III (repeat),13-01-2022,20-01-2022,4X strategy.
+0.47037037037037044,Relicta,20-01-2022,27-01-2022,Physics puzzle.
+0.47222222222222227,Daemon X Machina,27-01-2022,03-02-2022,Mech action.
+0.4740740740740741,Yooka-Laylee and the Impossible Lair (repeat),03-02-2022,10-02-2022,2.5D platformer.
+0.475925925925926,Windbound,10-02-2022,17-02-2022,Survival adventure.
+0.4777777777777778,Brothers: A Tale of Two Sons,17-02-2022,24-02-2022,Co‑op style adventure.
+0.4796296296296297,Cris Tales,24-02-2022,03-03-2022,JRPG‑inspired.
+0.4814814814814815,Black Widow: Recharged,03-03-2022,10-03-2022,Arcade shooter.
+0.4833333333333334,Centipede: Recharged,03-03-2022,10-03-2022,Arcade shooter.
+0.4851851851851852,Cities: Skylines (repeat),10-03-2022,17-03-2022,City‑builder.
+0.4870370370370371,In Sound Mind,17-03-2022,24-03-2022,Psychological horror.
+0.48888888888888893,Demon’s Tilt,24-03-2022,31-03-2022,Pinball shmup.
+0.4907407407407408,City of Brass (repeat),31-03-2022,07-04-2022,Action roguelike.
+0.49259259259259264,Total War: Warhammer,31-03-2022,07-04-2022,Strategy.
+0.49444444444444446,Rogue Legacy,07-04-2022,14-04-2022,Roguelite platformer.
+0.49629629629629635,The Vanishing of Ethan Carter (repeat),07-04-2022,14-04-2022,Mystery adventure.
+0.4981481481481482,Insurmountable,14-04-2022,21-04-2022,Mountain‑climbing roguelike.
+0.5,XCOM 2,14-04-2022,21-04-2022,Tactical strategy.
+0.5018518518518519,Amnesia: Rebirth,21-04-2022,28-04-2022,Horror.
+0.5037037037037037,Riverbond,21-04-2022,28-04-2022,Voxel co‑op action.
+0.5055555555555555,Just Die Already,28-04-2022,05-05-2022,Elderly mayhem sandbox.
+0.5074074074074074,Paradigm,28-04-2022,05-05-2022,Point‑and‑click.
+0.5092592592592593,Terraforming Mars,05-05-2022,12-05-2022,Board‑game adaptation.
+0.5111111111111111,Jotun: Valhalla Edition (repeat),12-05-2022,19-05-2022,Norse action‑exploration.
+0.512962962962963,Redout: Enhanced Edition,12-05-2022,19-05-2022,Futuristic racer.
+0.5148148148148148,Borderlands 3,19-05-2022,26-05-2022,Looter‑shooter.
+0.5166666666666666,Bioshock: The Collection,26-05-2022,02-06-2022,Bioshock trilogy.
+0.5185185185185185,Wolfenstein: The New Order,02-06-2022,09-06-2022,FPS.
+0.5203703703703704,Maneater,09-06-2022,16-06-2022,Shark RPG.
+0.5222222222222223,Supraland,16-06-2022,23-06-2022,Puzzle‑FPS.
+0.524074074074074,A Game of Thrones: The Board Game – Digital Edition,23-06-2022,30-06-2022,Strategy board adaptation.
+0.5259259259259259,Car Mechanic Simulator 2018,23-06-2022,30-06-2022,Workshop sim.
+0.5277777777777778,Geneforge 1: Mutagen,30-06-2022,07-07-2022,Classic‑style RPG.
+0.5296296296296297,Iratus: Lord of the Dead,30-06-2022,07-07-2022,Darkest‑Dungeon‑like.
+0.5314814814814814,Killing Floor 2 (repeat),07-07-2022,14-07-2022,Co‑op FPS.
+0.5333333333333333,Ancient Enemy,07-07-2022,14-07-2022,Card battler.
+0.5351851851851852,Wonder Boy: The Dragon’s Trap,14-07-2022,21-07-2022,Platformer remake.
+0.537037037037037,Shop Titans (bundle),14-07-2022,21-07-2022,F2P pack.
+0.5388888888888889,Tannenberg,21-07-2022,28-07-2022,WW1 FPS.
+0.5407407407407407,Lawn Mowing Simulator,28-07-2022,04-08-2022,Mowing sim.
+0.5425925925925926,Unrailed!,04-08-2022,11-08-2022,Co‑op track‑building.
+0.5444444444444444,"Cook, Serve, Delicious! 3?!",11-08-2022,18-08-2022,Cooking management.
+0.5462962962962963,Rumbleverse Boom Boxer Pack (DLC),18-08-2022,25-08-2022,Cosmetics pack.
+0.5481481481481482,Doom 64,18-08-2022,25-08-2022,Classic shooter.
+0.55,Ring of Pain,25-08-2022,01-09-2022,Card roguelike.
+0.5518518518518518,Destiny 2: Bungie 30th Anniversary Pack,25-08-2022,01-09-2022,DLC expansion.
+0.5537037037037037,Shadow of the Tomb Raider: Definitive Edition (repeat),01-09-2022,08-09-2022,Action‑adventure.
+0.5555555555555556,Submerged: Hidden Depths,01-09-2022,08-09-2022,Third‑person exploration.
+0.5574074074074074,Hundred Days – Winemaking Simulator,08-09-2022,15-09-2022,Winemaking management sim.
+0.5592592592592592,Realm Royale Reforged Epic Launch Bundle (DLC),08-09-2022,15-09-2022,F2P cosmetics/boosts.
+0.5611111111111111,Spirit of the North,15-09-2022,22-09-2022,Fox exploration game.
+0.562962962962963,The Captain,15-09-2022,22-09-2022,Pixel‑art space adventure.
+0.5648148148148148,ARK: Survival Evolved (repeat),22-09-2022,29-09-2022,Survival sandbox.
+0.5666666666666667,Gloomhaven,22-09-2022,29-09-2022,Tactical RPG board‑game adaptation.
+0.5685185185185185,The Drone Racing League Simulator,29-09-2022,06-10-2022,Drone racing sim.
+0.5703703703703704,Runbow,29-09-2022,06-10-2022,Colorful party platformer.
+0.5722222222222222,Slain: Back from Hell,06-10-2022,13-10-2022,Heavy‑metal action platformer.
+0.5740740740740741,Rising Hell,06-10-2022,13-10-2022,Vertical roguelike.
+0.575925925925926,ToeJam & Earl: Back in the Groove!,13-10-2022,20-10-2022,Roguelike co‑op adventure.
+0.5777777777777777,Darkwood,13-10-2022,20-10-2022,Top‑down survival horror.
+0.5796296296296296,Evoland Legendary Edition,20-10-2022,27-10-2022,JRPG homage collection.
+0.5814814814814815,Fallout 3: Game of the Year Edition,20-10-2022,27-10-2022,Open‑world RPG.
+0.5833333333333334,Saturnalia,27-10-2022,03-11-2022,Roguelite horror adventure.
+0.5851851851851851,"Warhammer 40,000: Mechanicus",27-10-2022,03-11-2022,Turn‑based tactics.
+0.587037037037037,Filament,03-11-2022,10-11-2022,Cable puzzle game.
+0.5888888888888889,Rising Storm 2: Vietnam (repeat),03-11-2022,10-11-2022,Multiplayer FPS.
+0.5907407407407407,Alba: A Wildlife Adventure,10-11-2022,17-11-2022,Relaxed exploration on a Mediterranean island.
+0.5925925925925926,Shadow Tactics: Blades of the Shogun (repeat),10-11-2022,17-11-2022,Tactical stealth.
+0.5944444444444444,Evil Dead: The Game,17-11-2022,24-11-2022,Asymmetrical horror.
+0.5962962962962963,Dark Deity,17-11-2022,24-11-2022,Tactical RPG.
+0.5981481481481481,Star Wars: Squadrons,24-11-2022,01-12-2022,Space dogfighting sim.
+0.6,Fort Triumph,01-12-2022,08-12-2022,XCOM‑like fantasy tactics.
+0.6018518518518519,RPG in a Box,01-12-2022,08-12-2022,Create‑your‑own RPG toolkit.
+0.6037037037037037,Wildcat Gun Machine,08-12-2022,15-12-2022,Bullet‑hell dungeon crawler.
+0.6055555555555555,Saints Row IV: Re‑Elected,08-12-2022,15-12-2022,Open‑world superpower chaos.
+0.6074074074074074,Sable,19-12-2022,20-12-2022,Stylized open‑world exploration (holiday daily).
+0.6092592592592593,Them’s Fightin’ Herds,20-12-2022,21-12-2022,Indie fighting game.
+0.611111111111111,Wolfenstein: The New Order (repeat),21-12-2022,22-12-2022,FPS.
+0.6129629629629629,LEGO Builder’s Journey,22-12-2022,23-12-2022,Puzzle builder.
+0.6148148148148148,Fallout Classic Collection,23-12-2022,24-12-2022,"Fallout 1, Fallout 2, Fallout Tactics."
+0.6166666666666667,Encased,24-12-2022,25-12-2022,Isometric RPG.
+0.6185185185185185,Metro: Last Light Redux (repeat),25-12-2022,26-12-2022,FPS.
+0.6203703703703703,Death Stranding,26-12-2022,27-12-2022,Strand‑type action game.
+0.6222222222222222,F.I.S.T.: Forged In Shadow Torch,27-12-2022,28-12-2022,Metroidvania.
+0.6240740740740741,Severed Steel (repeat),28-12-2022,29-12-2022,Stylish FPS.
+0.6259259259259259,Mortal Shell,29-12-2022,05-01-2023,Souls‑like action RPG.
+0.6277777777777778,Dishonored – Definitive Edition,29-12-2022,05-01-2023,Immersive sim.
+0.6296296296296297,Eximius: Seize the Frontline,29-12-2022,05-01-2023,Hybrid FPS/RTS.
+0.6314814814814814,Kerbal Space Program,05-01-2023,12-01-2023,Spaceflight sim.
+0.6333333333333333,Shadow Tactics: Aiko’s Choice,05-01-2023,12-01-2023,Standalone expansion.
+0.6351851851851852,Divine Knockout,12-01-2023,19-01-2023,Third‑person platform fighter.
+0.6370370370370371,First Class Trouble,12-01-2023,19-01-2023,Social deduction.
+0.6388888888888888,Gamedec – Definitive Edition,19-01-2023,26-01-2023,Isometric cyberpunk RPG.
+0.6407407407407407,Epistory – Typing Chronicles,19-01-2023,26-01-2023,Typing‑based action adventure.
+0.6425925925925926,Adios,26-01-2023,02-02-2023,Narrative game about a mob disposal worker.
+0.6444444444444445,Hell is Others,26-01-2023,02-02-2023,Extraction shooter with horror angle.
+0.6462962962962963,City of Gangsters,02-02-2023,09-02-2023,Prohibition‑era management sim.
+0.6481481481481481,Recipe for Disaster,09-02-2023,16-02-2023,Restaurant management sim.
+0.65,Warpips,16-02-2023,23-02-2023,Tug‑of‑war strategy.
+0.6518518518518518,Duskers,23-02-2023,02-03-2023,Command‑line drone roguelike.
+0.6537037037037037,Rise of Industry,02-03-2023,09-03-2023,Tycoon/production‑chain sim.
+0.6555555555555556,Call of the Sea,09-03-2023,16-03-2023,First‑person puzzle adventure.
+0.6574074074074074,"Gladius – Relics of War (Warhammer 40,000)",16-03-2023,23-03-2023,4X strategy.
+0.6592592592592592,Chess Ultra,23-03-2023,30-03-2023,Chess sim.
+0.6611111111111111,World of Warships – Starter Pack: Ishizuchi (DLC),23-03-2023,30-03-2023,F2P starter bundle.
+0.662962962962963,The Silent Age,30-03-2023,06-04-2023,Time‑travel adventure.
+0.6648148148148149,Tunche,30-03-2023,06-04-2023,Beat ’em up roguelite.
+0.6666666666666666,Dying Light Enhanced Edition,06-04-2023,13-04-2023,Open‑world zombie parkour.
+0.6685185185185185,shapez,06-04-2023,13-04-2023,Factory‑building puzzle.
+0.6703703703703704,Mordhau,13-04-2023,20-04-2023,Medieval multiplayer slasher.
+0.6722222222222222,Second Extinction (repeat),13-04-2023,20-04-2023,Co‑op dinosaur shooter.
+0.674074074074074,Beyond Blue,20-04-2023,27-04-2023,Underwater exploration.
+0.6759259259259259,Never Alone (Kisima Ingitchuna) (repeat),20-04-2023,27-04-2023,Cultural puzzle platformer.
+0.6777777777777778,Breathedge,27-04-2023,04-05-2023,Space survival parody.
+0.6796296296296296,Poker Club,27-04-2023,04-05-2023,Poker sim.
+0.6814814814814815,Against All Odds,04-05-2023,11-05-2023,Party obstacle‑course game.
+0.6833333333333333,Horizon Chase Turbo (repeat),04-05-2023,11-05-2023,Arcade racer.
+0.6851851851851852,Kao the Kangaroo,04-05-2023,11-05-2023,3D platformer.
+0.687037037037037,The Sims 4 – Daring Lifestyle Bundle (DLC),11-05-2023,18-05-2023,Cosmetic/content pack.
+0.6888888888888889,Death Stranding (repeat),18-05-2023,25-05-2023,Strand‑type action game.
+0.6907407407407408,Fallout: New Vegas – Ultimate Edition,25-05-2023,01-06-2023,Classic RPG.
+0.6925925925925925,Midnight Ghost Hunt,01-06-2023,08-06-2023,4v4 prop‑hunt ghost game.
+0.6944444444444444,PAYDAY 2,08-06-2023,15-06-2023,Co‑op heist FPS.
+0.6962962962962963,Guacamelee! Super Turbo Championship Edition,15-06-2023,22-06-2023,Metroidvania brawler.
+0.6981481481481482,Guacamelee! 2,15-06-2023,22-06-2023,Sequel brawler.
+0.7,The Dungeon of Naheulbeuk: The Amulet of Chaos,22-06-2023,29-06-2023,Tactical RPG.
+0.7018518518518518,A Game of Thrones: The Board Game – Digital Edition (repeat),29-06-2023,06-07-2023,Strategy board adaptation.
+0.7037037037037037,The Elder Scrolls Online,20-07-2023,27-07-2023,MMORPG.
+0.7055555555555556,Murder by Numbers,20-07-2023,27-07-2023,Picross detective puzzle.
+0.7074074074074074,Homeworld Remastered Collection,27-07-2023,03-08-2023,RTS classics remaster.
+0.7092592592592593,Severed Steel,27-07-2023,03-08-2023,Stylish acrobatic FPS.
+0.7111111111111111,Bloons TD 6,03-08-2023,10-08-2023,Tower defense.
+0.7129629629629629,Loop Hero (repeat),03-08-2023,10-08-2023,Deck‑building auto‑runner.
+0.7148148148148148,Europa Universalis IV (repeat),10-08-2023,17-08-2023,Grand strategy.
+0.7166666666666667,Orwell: Keeping an Eye on You,10-08-2023,17-08-2023,Surveillance narrative game.
+0.7185185185185186,Black Book,17-08-2023,24-08-2023,Card‑based RPG with Slavic folklore.
+0.7203703703703703,Dodo Peak,17-08-2023,24-08-2023,Arcade puzzle platformer.
+0.7222222222222222,Homeworld: Deserts of Kharak,24-08-2023,31-08-2023,Ground‑based RTS prequel.
+0.7240740740740741,Cave Story+ (repeat),31-08-2023,07-09-2023,Classic platformer.
+0.725925925925926,Spelldrifter,31-08-2023,07-09-2023,Tactical card RPG.
+0.7277777777777777,911 Operator,14-09-2023,21-09-2023,Emergency services sim.
+0.7296296296296296,Out of Line,14-09-2023,21-09-2023,Hand‑drawn puzzle platformer.
+0.7314814814814815,The Forest Quartet,21-09-2023,28-09-2023,Narrative puzzle adventure.
+0.7333333333333333,Out of Bandwidth (placeholder small title slot)*,21-09-2023,28-09-2023,Minor indie/freebie slot noted in trackers.
+0.7351851851851852,Soulstice,28-09-2023,05-10-2023,Action hack‑and‑slash.
+0.737037037037037,Model Builder,28-09-2023,05-10-2023,Scale‑model crafting sim.
+0.7388888888888889,Godlike Burger,05-10-2023,12-10-2023,Darkly comic restaurant sim.
+0.7407407407407407,Blazing Sails,12-10-2023,19-10-2023,Multiplayer pirate battle royale.
+0.7425925925925926,Q.U.B.E. Ultimate Bundle,12-10-2023,19-10-2023,Includes Q.U.B.E. + DLC.
+0.7444444444444445,Eternal Threads,19-10-2023,26-10-2023,Time‑manipulation narrative adventure.
+0.7462962962962963,The Evil Within,19-10-2023,26-10-2023,Survival horror.
+0.7481481481481481,The Evil Within 2,26-10-2023,02-11-2023,Survival horror sequel.
+0.75,Tandem: A Tale of Shadows,26-10-2023,02-11-2023,Puzzle platformer with dual perspectives.
+0.7518518518518519,F.I.S.T.: Forged In Shadow Torch (repeat),02-11-2023,09-11-2023,Metroidvania.
+0.7537037037037037,Turnip Boy Commits Tax Evasion,02-11-2023,09-11-2023,Comedy adventure.
+0.7555555555555555,Golden Light,09-11-2023,16-11-2023,Horror roguelike.
+0.7574074074074074,Earthlock,09-11-2023,16-11-2023,Turn‑based RPG.
+0.7592592592592593,Surviving the Aftermath,16-11-2023,23-11-2023,Post‑apocalyptic colony sim.
+0.7611111111111111,Deliver Us Mars,16-11-2023,23-11-2023,Sci‑fi adventure.
+0.762962962962963,Jitsu Squad,23-11-2023,30-11-2023,Co‑op beat ’em up.
+0.7648148148148148,Mighty Fight Federation,23-11-2023,30-11-2023,Arena fighter.
+0.7666666666666667,GigaBash,30-11-2023,07-12-2023,Kaiju party brawler.
+0.7685185185185185,Predecessor (starter pack),30-11-2023,07-12-2023,MOBA bundle.
+0.7703703703703704,Destiny 2: Legacy Collection (DLC bundle),07-12-2023,14-12-2023,Expansion pack trio.
+0.7722222222222223,DNF Duel (repeat),14-12-2023,21-12-2023,Anime fighting game.
+0.774074074074074,Melvor Idle,14-12-2023,21-12-2023,Idle/RPG inspired by RuneScape.
+0.7759259259259259,Art of Rally,21-12-2023,31-12-2023,"Stylized rally racer, part of 2023 holiday run."
+0.7777777777777778,Fallout 3: Game of the Year Edition (repeat),21-12-2023,31-12-2023,Open‑world RPG.
+0.7796296296296297,Ghostwire: Tokyo,21-12-2023,31-12-2023,Supernatural action‑adventure.
+0.7814814814814814,The Outer Worlds: Spacer’s Choice Edition (repeat),21-12-2023,31-12-2023,Enhanced RPG edition.
+0.7833333333333333,Human Resource Machine,21-12-2023,31-12-2023,Programming‑puzzle game.
+0.7851851851851852,Cursed to Golf,21-12-2023,31-12-2023,Roguelike golf platformer.
+0.7870370370370371,Cat Quest,21-12-2023,31-12-2023,Action RPG.
+0.7888888888888889,Snakebird Complete,21-12-2023,31-12-2023,Difficult puzzle game.
+0.7907407407407407,Saints Row (2022),21-12-2023,31-12-2023,Open‑world action reboot.
+0.7925925925925926,Ghostrunner,21-12-2023,31-12-2023,Cyberpunk parkour slasher.
+0.7944444444444444,Escape Academy (repeat),21-12-2023,31-12-2023,Co‑op escape‑room puzzler.
+0.7962962962962963,20 Minutes Till Dawn (repeat),21-12-2023,31-12-2023,Survivor‑like shooter.
+0.7981481481481482,A Plague Tale: Innocence (repeat),21-12-2023,31-12-2023,Story‑driven adventure.
+0.8,Marvel’s Guardians of the Galaxy (repeat),21-12-2023,31-12-2023,AAA story action game.
+0.8018518518518518,Dishonored: Death of the Outsider,21-12-2023,31-12-2023,Standalone immersive‑sim spin‑off.
+0.8037037037037037,Idle Champions of the Forgotten Realms (DLC pack),21-12-2023,31-12-2023,F2P booster.
+0.8055555555555556,theHunter: Call of the Wild (repeat),21-12-2023,31-12-2023,Hunting sim.
+0.8074074074074075,Train Valley 2,21-12-2023,31-12-2023,Train puzzle/management.
+0.8092592592592592,Grime,21-12-2023,31-12-2023,Souls‑like Metroidvania.
+0.8111111111111111,Turnip Boy Commits Tax Evasion (repeat),21-12-2023,31-12-2023,Comedy adventure.
+0.812962962962963,Black Book (repeat),21-12-2023,31-12-2023,Card RPG with Slavic folklore.
+0.8148148148148148,Train Sim World 3 (example holiday slot)*,21-12-2023,31-12-2023,Sim entry appearing in some 2023 holiday lists.
+0.8166666666666667,Additional minor DLC / cosmetics slots (holiday pack group)*,21-12-2023,31-12-2023,Small bundles grouped in holiday promo.
+0.8185185185185185,Escape Academy (repeat),01-01-2024,02-01-2024,Puzzle escape‑room game.
+0.8203703703703704,20 Minutes Till Dawn (repeat),02-01-2024,03-01-2024,Survivor‑like shooter.
+0.8222222222222222,A Plague Tale: Innocence (repeat),03-01-2024,04-01-2024,Story‑driven action adventure.
+0.8240740740740741,Marvel’s Guardians of the Galaxy (repeat),04-01-2024,11-01-2024,AAA narrative action.
+0.825925925925926,Sail Forth,11-01-2024,18-01-2024,Indie sailing adventure.
+0.8277777777777778,LOVE,18-01-2024,25-01-2024,Minimalist precision platformer.
+0.8296296296296296,Infinifactory,25-01-2024,01-02-2024,3D factory‑building puzzle game.
+0.8314814814814815,Doors: Paradox,01-02-2024,08-02-2024,Puzzle/escape‑room game.
+0.8333333333333334,Doki Doki Literature Club Plus!,08-02-2024,15-02-2024,Visual novel (plus content).
+0.8351851851851851,Dakar Desert Rally,15-02-2024,22-02-2024,Off‑road racing.
+0.837037037037037,Thief (2014),22-02-2024,29-02-2024,Stealth action.
+0.8388888888888889,The Big Con,29-02-2024,07-03-2024,90s‑style con‑artist adventure.
+0.8407407407407408,Town of Salem 2,07-03-2024,14-03-2024,Social deduction.
+0.8425925925925926,LISA: The Painful – Definitive Edition,14-03-2024,21-03-2024,Dark comedy RPG.
+0.8444444444444444,Industria,21-03-2024,28-03-2024,Narrative FPS.
+0.8462962962962963,Orcs Must Die! 3,28-03-2024,04-04-2024,Tower‑defense action.
+0.8481481481481481,Circus Electrique,04-04-2024,11-04-2024,Tactical RPG/management.
+0.85,Dragon Age: Inquisition – Game of the Year Edition,11-04-2024,18-04-2024,AAA fantasy RPG.
+0.8518518518518519,Farming Simulator 22,18-04-2024,25-04-2024,Modern farming sim.
+0.8537037037037037,Chivalry 2,25-04-2024,02-05-2024,Multiplayer medieval slasher.
+0.8555555555555555,LISA: The Joyful – Definitive Edition,02-05-2024,09-05-2024,DLC‑scale sequel to LISA.
+0.8574074074074074,Orcs Must Die! 2 (repeat),09-05-2024,16-05-2024,Hybrid tower defense.
+0.8592592592592593,Cat Quest II,16-05-2024,23-05-2024,Co‑op action RPG.
+0.8611111111111112,Firestone: Online Idle RPG – Epic Pack (DLC),23-05-2024,30-05-2024,F2P booster bundle.
+0.8629629629629629,Marvel’s Midnight Suns,30-05-2024,06-06-2024,Tactical card‑based superhero RPG.
+0.8648148148148148,Redout 2,06-06-2024,13-06-2024,Futuristic arcade racer.
+0.8666666666666667,Idle Champions of the Forgotten Realms (DLC pack),13-06-2024,20-06-2024,Bonus content.
+0.8685185185185185,Freshly Frosted + Rumble Club pack,20-06-2024,27-06-2024,Donut puzzle game + F2P bonuses.
+0.8703703703703703,Sunless Skies: Sovereign Edition,27-06-2024,04-07-2024,Gothic exploration RPG.
+0.8722222222222222,The Falconeer,04-07-2024,11-07-2024,Air‑combat RPG.
+0.8740740740740741,Floppy Knights,11-07-2024,18-07-2024,Deck‑building tactics.
+0.8759259259259259,Arcade Paradise,18-07-2024,25-07-2024,Laundromat/arcade management.
+0.8777777777777778,Maid of Sker,18-07-2024,25-07-2024,Stealth horror.
+0.8796296296296297,F.I.S.T.: Forged In Shadow Torch (repeat),25-07-2024,01-08-2024,Metroidvania.
+0.8814814814814815,Thief (repeat),01-08-2024,08-08-2024,Stealth action.
+0.8833333333333333,The Callisto Protocol,08-08-2024,15-08-2024,AAA sci‑fi horror.
+0.8851851851851852,Lego Star Wars: The Skywalker Saga,15-08-2024,22-08-2024,Full‑saga Lego action adventure.
+0.8870370370370371,The Outer Worlds: Spacer’s Choice Edition (repeat),22-08-2024,29-08-2024,Enhanced RPG edition.
+0.8888888888888888,Deus Ex: Mankind Divided,29-08-2024,05-09-2024,Cyberpunk immersive sim.
+0.8907407407407407,The Big Con (repeat),05-09-2024,12-09-2024,90s con‑artist adventure.
+0.8925925925925926,Orcs Must Die! 3 (repeat),12-09-2024,19-09-2024,Tower‑defense action.
+0.8944444444444445,Circus Electrique (repeat),19-09-2024,26-09-2024,Tactical RPG/management.
+0.8962962962962963,Dragon Age: Inquisition – Game of the Year Edition (repeat),26-09-2024,03-10-2024,AAA fantasy RPG.
+0.8981481481481481,Farming Simulator 22 (repeat),03-10-2024,10-10-2024,Farming sim.
+0.9,Chivalry 2 (repeat),10-10-2024,17-10-2024,Medieval slasher.
+0.9018518518518519,World War Z: Aftermath,17-10-2024,24-10-2024,Co‑op zombie shooter.
+0.9037037037037037,Garden Story,24-10-2024,31-10-2024,Wholesome village action‑adventure.
+0.9055555555555556,HUMANKIND,31-10-2024,07-11-2024,Historical 4X strategy.
+0.9074074074074074,F1 Manager 2024,07-11-2024,14-11-2024,F1 management sim.
+0.9092592592592592,Turmoil,14-11-2024,21-11-2024,Oil‑drilling management game.
+0.9111111111111111,Kingdom Come: Deliverance (repeat),21-11-2024,28-11-2024,"Historical RPG, lead‑in to holiday season."
+0.912962962962963,Hell Let Loose,28-11-2024,05-12-2024,100‑player WW2 FPS.
+0.9148148148148149,The Lord of the Rings: Return to Moria,12-12-2024,19-12-2024,"Survival crafting in Moria, start of Holiday 2024 run."
+0.9166666666666666,Vampire Survivors,19-12-2024,20-12-2024,Bullet‑heaven roguelike.
+0.9185185185185185,Astrea: Six‑Sided Oracles,20-12-2024,21-12-2024,Dice‑deck‑building roguelike.
+0.9203703703703704,Wizard of Legend,21-12-2024,22-12-2024,Fast action roguelike.
+0.9222222222222223,Dark and Darker – Legendary Status (DLC),23-12-2024,24-12-2024,Unlock status/bonuses.
+0.924074074074074,DREDGE,24-12-2024,25-12-2024,Fishing horror‑tinged adventure.
+0.9259259259259259,Control (repeat),25-12-2024,26-12-2024,Supernatural action‑adventure.
+0.9277777777777778,Ghostrunner 2,26-12-2024,27-12-2024,Cyberpunk parkour slasher.
+0.9296296296296296,Hot Wheels Unleashed,27-12-2024,28-12-2024,Arcade racer.
+0.9314814814814815,KILL KNIGHT,28-12-2024,29-12-2024,Isometric bullet‑hell.
+0.9333333333333333,Orcs Must Die! 3 (repeat),29-12-2024,30-12-2024,Tower‑defense action.
+0.9351851851851852,Sifu,30-12-2024,31-12-2024,Martial‑arts roguelite.
+0.937037037037037,REDACTED (mystery day 2024)*,30-12-2024,31-12-2024,Placeholder used by some leak lists; actual title varied/hidden until reveal.
+0.9388888888888889,"Kingdom Come: Deliverance (repeat, New Year slot)",31-12-2024,01-01-2025,New Year free rerun.
+0.9407407407407408,"Hell Let Loose (repeat, final Holiday 2024)",01-01-2025,02-01-2025,Final game of 2024 holiday sequence.
+0.9425925925925926,Turmoil (repeat),02-01-2025,09-01-2025,Oil‑drilling sim (weekly slot).
+0.9444444444444444,Escape Academy (repeat),09-01-2025,16-01-2025,Co‑op escape‑room puzzler.
+0.9462962962962963,Make Way,16-01-2025,23-01-2025,Build‑your‑own top‑down racer.
+0.9481481481481482,Machinarium,23-01-2025,30-01-2025,Classic point‑and‑click puzzle.
+0.95,Monument Valley,30-01-2025,06-02-2025,Meditative puzzle game.
+0.9518518518518518,Monument Valley 2,06-02-2025,13-02-2025,Sequel puzzle adventure.
+0.9537037037037037,Jorel’s Brother and The Most Important Game of the Galaxy,13-02-2025,20-02-2025,Cartoon‑style adventure.
+0.9555555555555556,Nightingale pack / early‑access bonus,20-02-2025,27-02-2025,Content related to survival game Nightingale.
+0.9574074074074074,Gravity Circuit,27-02-2025,06-03-2025,Retro‑style action platformer.
+0.9592592592592593,Albion Online – Rogue Journeyman Bundle,06-03-2025,13-03-2025,F2P MMO bundle.
+0.9611111111111111,Amnesia: The Bunker,13-03-2025,20-03-2025,First‑person horror.
+0.962962962962963,Samorost 3,20-03-2025,27-03-2025,Surreal adventure.
+0.9648148148148148,Fear the Spotlight,27-03-2025,03-04-2025,Retro‑inspired horror.
+0.9666666666666667,Bendy and the Ink Machine,03-04-2025,10-04-2025,Cartoon horror.
+0.9685185185185186,Five Nights at Freddy’s: Into the Pit,10-04-2025,17-04-2025,FNAF‑universe title.
+0.9703703703703703,Felix the Reaper,17-04-2025,24-04-2025,Puzzle about dancing grim reaper.
+0.9722222222222222,ScourgeBringer,24-04-2025,01-05-2025,Roguelite platformer.
+0.9740740740740741,Songs of Silence,01-05-2025,08-05-2025,Hybrid strategy game.
+0.975925925925926,Zero Hour,08-05-2025,15-05-2025,Tactical FPS.
+0.9777777777777777,Godzilla Voxel Wars,15-05-2025,22-05-2025,Turn‑based tactics with Godzilla IP.
+0.9796296296296296,Zoeti,22-05-2025,29-05-2025,Card‑based roguelike.
+0.9814814814814815,Universe for Sale,29-05-2025,05-06-2025,Narrative adventure.
+0.9833333333333334,The Darkside Detective,05-06-2025,12-06-2025,Pixel‑art detective adventure.
+0.9851851851851852,The Jackbox Party Pack 4,12-06-2025,19-06-2025,Party quiz pack.
+0.987037037037037,CYGNI: All Guns Blazing,08-08-2025,15-08-2025,Shoot ’em up.
+0.9888888888888889,DNF Duel (repeat),08-08-2025,15-08-2025,Fighting game.
+0.9907407407407407,Rawmen: Food Fighter Arena,01-08-2025,08-08-2025,Food‑fight multiplayer arena.
+0.9925925925925926,LumbearJack,01-08-2025,08-08-2025,Environmental puzzle game.
+0.9944444444444445,Call of the Wild: The Angler,21-03-2025,28-03-2025,Fishing sim (bundle with Atom Eve in some regions).
+0.9962962962962963,Invincible Presents: Atom Eve,21-03-2025,28-03-2025,Superhero visual‑novel‑style game.
+0.9981481481481481,Islets,28-03-2025,04-04-2025,Hand‑drawn Metroidvania.
+1.0000000000000002,Hogwarts Legacy,11-12-2025,18-12-2025,"Big AAA open‑world RPG, headline of 2025 holiday sale."
