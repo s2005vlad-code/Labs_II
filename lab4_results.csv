@@ -1,0 +1,4 @@
+Модель,Accuracy,Precision,Recall,F1-Score,ROC-AUC,OOB Accuracy
+Random Forest,0.5399,0.4590,0.5399,0.4856,0.4857,0.6138
+AdaBoost,0.6135,0.4077,0.6135,0.4899,0.4469,
+Gradient Boosting,0.5706,0.5246,0.5706,0.5366,0.4703,
