@@ -1,5 +1,3 @@
-# Лабораторная работа №4: Бэггинг и бустинг. Случайный лес, AdaBoost, градиентный бустинг
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

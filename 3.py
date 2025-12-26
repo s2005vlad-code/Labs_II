@@ -1,5 +1,3 @@
-# Лабораторная работа №3: Деревья решений в задачах классификации и регрессии. ROC-кривая
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
